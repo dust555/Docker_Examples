@@ -1,0 +1,42 @@
+version: '3'
+
+services:
+  myshop-api:
+    build: ./myshop_csproj
+    container_name: myshop-api
+    environment:
+      MYSQL_SERVER_NAME: ${MYSQL_SERVER_NAME}
+    env_file:
+      - secrets.env
+    ports:
+      - 8000:80
+    networks:
+      - myshop_net
+
+  myshop-db:
+    image: mysql
+    container_name: ${MYSQL_SERVER_NAME}
+    env_file:
+      - secrets.env
+    volumes:
+      - ./mysqldata:/var/lib/mysql
+    networks:
+      - myshop_net
+
+
+  myshop-migration:
+    build: 
+      context: ./myshop_csproj
+      dockerfile: Dockerfile.migrations
+    container_name: myshop-migrations
+    env_file:
+      - secrets.env
+    tty: true
+    networks:
+      - myshop_net
+      
+networks: 
+  myshop_net:
+
+
+    

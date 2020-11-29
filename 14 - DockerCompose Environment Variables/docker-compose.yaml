@@ -1,0 +1,10 @@
+version: '3'
+
+services: 
+    envvar_service:
+      build: ./EnvVarExample
+      container_name: ${SERVICENAME}
+      env_file:
+        - envvar.env
+      ports: 
+        - 8000:80

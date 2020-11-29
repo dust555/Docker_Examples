@@ -1,0 +1,40 @@
+#docker-compose.yaml
+
+#To run migration on database run following command
+#docker exec -it myshop-migration /root/.dotnet/tools/dotnet-ef database update
+
+version: '3'
+
+services:
+  myshop-api:
+    build: ./myshop_csproj
+    container_name: myshop-api
+    environment:
+      MYSQL_SERVER_NAME: ${MYSQL_SERVER_NAME}
+    env_file:
+      - secrets.env
+      - asp.env
+    ports:
+      - 8000:80
+      - 8001:443
+    networks:
+      - myshop_net
+    volumes:
+      - ./myshop_csproj/certs:/https
+
+  myshop-db:
+    image: mysql
+    container_name: ${MYSQL_SERVER_NAME}
+    env_file:
+      - secrets.env
+    volumes:
+      - ./mysqldata:/var/lib/mysql
+    networks:
+      - myshop_net
+
+
+networks: 
+  myshop_net:
+
+
+    

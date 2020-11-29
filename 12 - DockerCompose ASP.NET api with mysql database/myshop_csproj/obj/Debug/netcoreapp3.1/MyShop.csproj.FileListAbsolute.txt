@@ -1,0 +1,92 @@
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.exe
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.deps.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.dev.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MyShop.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.csprojAssemblyReference.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfoInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfo.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.RazorTargetAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\staticwebassets\MyShop.StaticWebAssets.Manifest.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\staticwebassets\MyShop.StaticWebAssets.xml
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.genruntimeconfig.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\obj\Debug\netcoreapp3.1\MyShop.csproj.CopyComplete
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\MyShop\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.csprojAssemblyReference.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfoInputs.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.AssemblyInfo.cs
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.csproj.CoreCompileInputs.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.MvcApplicationPartsAssemblyInfo.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.dll
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.pdb
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.exe
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.deps.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.runtimeconfig.dev.json
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MyShop.pdb
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Docker\MyShopDocker\myshop_csproj\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.RazorTargetAssemblyInfo.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.csproj.CopyComplete
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\staticwebassets\MyShop.StaticWebAssets.Manifest.cache
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\staticwebassets\MyShop.StaticWebAssets.xml
+E:\Docker\MyShopDocker\myshop_csproj\obj\Debug\netcoreapp3.1\MyShop.genruntimeconfig.cache

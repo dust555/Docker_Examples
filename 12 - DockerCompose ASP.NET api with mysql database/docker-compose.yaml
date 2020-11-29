@@ -1,0 +1,20 @@
+version: '3'
+
+services:
+  mysqlserver:
+    image: mysql/mysql-server
+    container_name: mysqlserver
+    volumes:
+      - mysqldata:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: pw
+      MYSQL_DATABASE: myshopdb
+      MYSQL_USER: user
+      MYSQL_PASSWORD: pw
+  api-services:
+    build: ./myshop_csproj
+    ports: 
+      - 8080:80
+
+volumes:
+  mysqldata: 

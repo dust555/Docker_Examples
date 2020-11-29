@@ -1,0 +1,60 @@
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.csprojAssemblyReference.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfoInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfo.cs
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.csproj.CoreCompileInputs.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.exe
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.deps.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.dev.json
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.RazorTargetAssemblyInfo.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.Manifest.cache
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.xml
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.dll
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.pdb
+E:\Data\OneDrive - Thomas More\ThomasMore\C#\2020-2021\Examples\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.genruntimeconfig.cache
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.exe
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.deps.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.dev.json
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.dll
+E:\Docker\CarApi\bin\Debug\netcoreapp3.1\CarApi.pdb
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.csprojAssemblyReference.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfoInputs.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfo.cs
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.csproj.CoreCompileInputs.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.RazorTargetAssemblyInfo.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.Manifest.cache
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.xml
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.dll
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.pdb
+E:\Docker\CarApi\obj\Debug\netcoreapp3.1\CarApi.genruntimeconfig.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.exe
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.deps.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.runtimeconfig.dev.json
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.dll
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\bin\Debug\netcoreapp3.1\CarApi.pdb
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.csprojAssemblyReference.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfoInputs.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.AssemblyInfo.cs
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.csproj.CoreCompileInputs.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.RazorTargetAssemblyInfo.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.Manifest.cache
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\staticwebassets\CarApi.StaticWebAssets.xml
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.dll
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.pdb
+E:\Docker\Demonstraties\06 - ASP.NET Mock API webserver\CarApi\obj\Debug\netcoreapp3.1\CarApi.genruntimeconfig.cache
