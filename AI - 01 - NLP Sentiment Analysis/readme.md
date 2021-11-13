@@ -13,8 +13,12 @@ Trained model file
   
 Web application using the logistic_clf.pkl model file using docker-compose
   
-visit http://localhost:5000  
-  
+visit http://localhost:5000 
+
+
+## code source  
+
+https://github.com/dmoonat/sentiment-analysis/tree/master/containerized_webapp  
   
 ## docker compose commands  
   
