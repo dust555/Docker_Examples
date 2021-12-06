@@ -1,24 +1,28 @@
 # 01 - Running Docker Image from DockerHub
 
-running an image from docker hub
+running a container from an image on docker hub  
+> --name: name of docker constainer
 ```
 docker run --name=ubuntu ubuntu
 ```
 
 
-running an image keeping bash open
+running a container from an image on docker hub keeping the shell of the container open
+> -i: keep STDIN open
+> -t: allocate a tty
 ```
 docker run -it --name=ubuntu ubuntu
 ```
 
 
-running an image in background
+running a container from an image on docker hub in the background
+> -d: detached
 ```
 docker run -it -d --name=ubuntu
 ```
 
 
-run command on docker image
+run command in docker container with name "ubuntu"
 ```
-docker exec -i -t ubuntu bash
+docker exec -it ubuntu bash
 ```
