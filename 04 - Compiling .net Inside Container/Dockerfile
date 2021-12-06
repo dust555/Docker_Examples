@@ -1,16 +1,13 @@
 #Compiling project in container
-FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build_env
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build_env
 WORKDIR /App
 COPY ./HelloConsole .
 RUN dotnet restore
 RUN dotnet publish -c Release -o out
 
 #Create runtime docker image
-FROM mcr.microsoft.com/dotnet/runtime:5.0
+FROM mcr.microsoft.com/dotnet/runtime:6.0
 WORKDIR /App
-
-#Expose port outside of container
-EXPOSE 80
 
 COPY --from=build_env /App/out .
 ENTRYPOINT ["dotnet", "HelloConsole.dll"]
