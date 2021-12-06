@@ -8,7 +8,7 @@ docker run --name=ubuntu ubuntu
 
 
 running a container from an image on docker hub keeping the shell of the container open
-> -i: keep STDIN open
+> -i: keep STDIN open  
 > -t: allocate a tty
 ```
 docker run -it --name=ubuntu ubuntu
