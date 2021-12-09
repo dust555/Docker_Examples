@@ -1,0 +1,15 @@
+version: '2'
+services:
+
+  ### Mysql container
+  mysql:
+    container_name: "Mysql_netapi"
+    image: mysql:latest
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: todo
+      MYSQL_USER: todo_user
+      MYSQL_PASSWORD: todo_pass
+      MYSQL_ROOT_HOST: '%'

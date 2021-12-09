@@ -1,0 +1,8 @@
+#Create sdk container
+FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build_env
+WORKDIR /App
+COPY *.csproj .
+RUN dotnet restore
+COPY . .
+#install dotnet-ef
+RUN dotnet tool install --global dotnet-ef

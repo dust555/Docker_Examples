@@ -1,0 +1,39 @@
+version: '3'
+
+services:
+  todo-api:
+    build: ./todo_aspnet
+    container_name: todo-api
+    ports:
+      - 8000:80
+    networks:
+      - todo_net
+
+  todo-db:
+    image: mysql
+    container_name: todo-db
+    environment:
+      MYSQL_USER: todo_user
+      MYSQL_PASSWORD: todo_pass
+      MYSQL_ROOT_PASSWORD: todo_pass
+      MYSQL_DATABASE: todo
+    volumes:
+      - ./mysqldata:/var/lib/mysql
+    networks:
+      - todo_net
+
+
+  todo-migration:
+    build: 
+      context: ./todo_aspnet
+      dockerfile: Dockerfile.migrations
+    container_name: todo-migrations
+    tty: true
+    networks:
+      - todo_net
+
+networks: 
+  todo_net:
+
+
+    
