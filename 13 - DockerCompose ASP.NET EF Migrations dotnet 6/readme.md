@@ -1,5 +1,5 @@
 # 13 - DockerCompose ASP.NET EF Migrations
-~~Create folder mysqldata on the level of docker-compose.yml file~~  
+**Create folder mysqldata on the level of docker-compose.yml file**
 Mysql database is mounted to this folder
 
 running all docker containers in the docker-compose.yaml file in background, including a migrations container
